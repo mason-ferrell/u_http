@@ -1,7 +1,0 @@
-To do for pa2:
-
-make port cmd arg
-send correct version
-add persistent connections
-do a ton of netcat testing
-check overflow of initial recv buffer
