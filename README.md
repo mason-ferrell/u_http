@@ -1,0 +1,1 @@
+This project contains an extremely basic implementation of the HTTP 1 protocol, supporting only GET requests. If using HTTP/1.1, the "Connection: keep-alive" directive is also enabled. To run, either run the 'uhttp/server' binary, or build using gcc and 'uhttp/webserver.c' as the source file.
